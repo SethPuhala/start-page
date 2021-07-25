@@ -1,0 +1,87 @@
+html {
+	background-color: #505362;
+/*	background-image: url("bg1.jpg");*/
+}
+
+.linkbox {
+	display: inline-block;
+
+	border-radius: 12px;
+	background-color: #be84f4;
+	height: 175px;
+	width: 175px;
+	margin-top: 8px;
+	margin-right: 8px;
+
+}
+
+#boxes{
+	text-align: center;
+	
+	
+
+}
+
+
+
+
+.linkimg{
+	width: 175px;
+	height: 175px;
+	margin: auto;
+
+
+}
+
+
+
+#dSearch {
+
+  
+  text-align: center;
+  
+  background: #fff07f;
+  width: 600px;
+
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 0;
+
+  border-radius: 30px;
+  
+  
+  height: 70px;
+
+}
+
+.input_box {
+  border: none;
+  outline: none;
+  background: none;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 422px;
+  color: #5aaefc;
+  font-size: 22px;
+  border-radius: 0px 0px 0px 0px;
+  height: 70px;
+  text-align: center;
+ }
+
+ #timebox {
+  display: table;
+  width: 358px;
+  margin-top: 8px;
+ 
+ }
+
+
+#timetext {
+  font-size: 100px;
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: 1000;
+  margin: 0;
+  margin-top: auto;
+  padding: 0;
+}
